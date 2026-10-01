@@ -19,7 +19,7 @@ To maintain a clean professional workspace, raw files and clean outputs are kept
 ├── source/
 │   └── nigeria_messy_sales_dataset.csv   # Unchanged raw data
 ├── clean_data/
-│   └── cleaned_sales_data.csv            # Cleaned final file output
+│   └── cleaned_nigeria_sales_data.csv            # Cleaned final file output
 ├── Task_1.py                             # The data cleaning Python script
 └── README.md                             # Project documentation
 ```
