@@ -4,7 +4,7 @@ import pandas as pd
 # Define clean path structures
 RAW_DATA_PATH = os.path.join("source", "nigeria_messy_sales_dataset.csv")
 CLEANED_DIR_PATH = os.path.join("clean_data")
-CLEANED_DATA_PATH = os.path.join(CLEANED_DIR_PATH, "cleaned_sales_data.csv")
+CLEANED_DATA_PATH = os.path.join(CLEANED_DIR_PATH, "cleaned_nigeria_sales_data.csv")
 
 def run_data_cleaning_pipeline():
     print("=" * 50)

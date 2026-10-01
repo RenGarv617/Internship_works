@@ -20,7 +20,7 @@ To maintain a clean professional workspace, raw files and clean outputs are kept
 │   └── nigeria_messy_sales_dataset.csv   # Unchanged raw data
 ├── clean_data/
 │   └── cleaned_sales_data.csv            # Cleaned final file output
-├── clean_data.py                         # The data cleaning Python script
+├── Task_1.py                             # The data cleaning Python script
 └── README.md                             # Project documentation
 ```
 
@@ -32,7 +32,7 @@ To maintain a clean professional workspace, raw files and clean outputs are kept
 2. Put your raw messy dataset in the `source/` folder.
 3. Run the script from your terminal:
    ```bash
-   python nigeria_messy_sales_dataset.py
+   python Task_1.py
    ```
 
 ## Successful Code Run Screenshot
